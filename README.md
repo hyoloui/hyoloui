@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **hyoloui/hyoloui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[스파르타코딩클럽 사이트로 연결](https://spartacodingclub.kr/)
+
+![이미지설명-옆에는 이미지url 들어가요](https://lh3.googleusercontent.com/lYhhH_bEYC_rRd1RcYDIbqMNG3byqPiqeKXQoNjneNAdbD9xyNVhq7BmZIpwASKtkp6ZYRMU01Co2oyl8tfJceE0ZFcQYrKKd9YBu9EqfFZQw1ytT8KM)
