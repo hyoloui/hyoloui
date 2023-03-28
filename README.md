@@ -1,12 +1,26 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Hello%20I'm%20SeungHyo%20🥸&&fontColor=ffffff&&fontSize=40)
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Hello%20I'm%20hyoloui%20🥸&&fontColor=ffffff&&fontSize=40)
+  
 </div>
+
   
 <div align="center">
+  
   ## 📚 &nbsp; About Me &nbsp; 📚
   
-   <a href="https://hyoloui.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-203997?style=for-the-badge&logo=Tistory&logoColor=000000"></a>
-      <a href="mailto:tmdgy9272@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=tmdgy9272@gmail.com"/></a>
+  내가 즐거운 일을 하고싶어서 여기까지 달려온 프론트엔드 개발자 hyoloui 입니다.
+  <br>
+  특수부대원에서 개발자까지의 커리어를 인정받기 위해 오늘도 달리고 있습니다.
+  <br>
+  
+   <a href="https://hyoloui.tistory.com/" target="_blank">
+     <img src="https://img.shields.io/badge/Blog-203997?style=for-the-badge&logo=Tistory&logoColor=000000">
+  </a>
+      
+  <a href="mailto:tmdgy9272@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=tmdgy9272@gmail.com"/>
+  </a>
 
   <br>
   <br>
