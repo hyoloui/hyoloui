@@ -11,7 +11,7 @@
   
   내가 즐거운 일을 하고싶어서 여기까지 달려온 프론트엔드 개발자 hyoloui 입니다.
   <br>
-  특수부대원에서 개발자까지의 커리어를 인정받기 위해 오늘도 달리고 있습니다.
+  특수부대원에서 개발자가 되기까지 첫 발을 딛기 위해 오늘도 수없이 넘어지고 있습니다.
   <br>
   
    <a href="https://hyoloui.tistory.com/" target="_blank">
@@ -43,9 +43,8 @@
   <br>
   
 ## 📊 &nbsp; History &nbsp; 📊
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiheecho&theme=tokyonight&show_icons=true" width="42%" />
-</a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=hyoloui&theme=tokyonight&show_icons=true" width="42%" />
   
 </div>
 
@@ -53,7 +52,7 @@
 
 <div align="right"> 
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiheecho&count_bg=%23B6CFFE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyoloui&count_bg=%2380A5FF&title_bg=%23555555&icon=smugmug.svg&icon_color=%23F1F1F1&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 <!--
