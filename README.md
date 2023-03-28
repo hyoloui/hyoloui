@@ -5,7 +5,7 @@
 <div align="center">
   
 ## 📚 &nbsp; About Me &nbsp; 📚
- <a href="[클릭시 이동할 링크](https://hyoloui.tistory.com/)" target="_blank"><img src="https://img.shields.io/badge/Blog-203997?style=for-the-badge&logo=Tistory&logoColor=000000"></a>
+ <a href="https://hyoloui.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-203997?style=for-the-badge&logo=Tistory&logoColor=000000"></a>
     <a href="mailto:tmdgy9272@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=tmdgy9272@gmail.com"/></a>
 
 <br>
