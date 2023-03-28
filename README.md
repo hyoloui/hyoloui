@@ -9,7 +9,7 @@
   
   ## 📚 &nbsp; About Me &nbsp; 📚
   
-  내가 즐거운 일을 하고싶어서 여기까지 달려온 프론트엔드 개발자 hyoloui 입니다.
+  즐거운 일을 찾아 여기까지 달려온 프론트엔드 개발자 hyoloui 입니다.
   <br>
   특수부대원에서 개발자가 되기까지 첫 발을 딛기 위해 오늘도 수없이 넘어지고 있습니다.
   <br>
@@ -29,15 +29,26 @@
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"> 
   
   <br>
   
+  <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=FFFFFF">  
+  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=FFFFFF">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF">
+  
+  <br>
+
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000">
+  <img src="https://img.shields.io/badge/Next-FFFFFF?style=for-the-badge&logo=Next.js&logoColor=000000">
+  
+  <br>
+  
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=000000"> 
-  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=FFFFFF">  
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=000000"> 
   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=FFFFFF">
 
   <br>
