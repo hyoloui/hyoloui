@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Hello%20I'm%20hyoloui%20🥸&&fontColor=ffffff&&fontSize=40)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Hello%20I'm%20Seunghyo%20🥸&&fontColor=ffffff&&fontSize=40)
   
 </div>
 
@@ -9,7 +9,7 @@
   
   ## 📚 &nbsp; About Me &nbsp; 📚
   
-  즐거운 일을 찾아 여기까지 달려온 프론트엔드 개발자 hyoloui 입니다.
+  즐거운 일을 찾아 여기까지 달려온 프론트엔드 개발자 이승효 입니다.
   <br>
   특수부대원에서 개발자가 되기까지 첫 발을 딛기 위해 오늘도 수없이 넘어지고 있습니다.
   <br>
