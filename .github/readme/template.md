@@ -4,7 +4,7 @@
 
 피트니스 센터 CRM·ERP SaaS **어시스트핏**의 웹 프론트엔드를 저장소 생성부터 맡아 출시했고, {{OPERATING}}째 운영하고 있습니다. 불편을 들으면 직접 만들어 보고, 방법이 둘이면 둘 다 만들어 수치로 고릅니다.
 
-웹 프론트엔드 {{TENURE}} · Next.js · React · TypeScript · TanStack Query · Jotai · Tailwind CSS · Jest · Sentry · Storybook
+2023년 5월부터 웹 프론트엔드 · Next.js · React · TypeScript · TanStack Query · Jotai · Tailwind CSS · Jest · Sentry · Storybook
 
 <br>
 

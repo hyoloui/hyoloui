@@ -3,7 +3,6 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-TENURE_START = (2023, 5, 1)   # 에이피티플레이 입사
 LAUNCH = (2024, 8, 9)         # 어시스트핏 CRM 웹 정식 출시
 
 
@@ -20,6 +19,5 @@ def ko_period(n):
 
 today = datetime.now(timezone(timedelta(hours=9))).date()
 text = (ROOT / ".github/readme/template.md").read_text(encoding="utf-8")
-text = text.replace("{{TENURE}}", ko_period(months_since(TENURE_START, today)))
 text = text.replace("{{OPERATING}}", ko_period(months_since(LAUNCH, today)))
 (ROOT / "README.md").write_text(text, encoding="utf-8")
