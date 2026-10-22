@@ -1,83 +1,59 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=200&section=header&text=Hello%20I'm%20Seunghyo%20🥸&&fontColor=ffffff&&fontSize=40)
-  
-</div>
+# 이승효
 
-  
-<div align="center">
-  
-  ## 📚 &nbsp; About Me &nbsp; 📚
-  
-  즐거운 일을 찾아 여기까지 달려온 프론트엔드 개발자 이승효 입니다.
-  <br>
-  특수부대원에서 개발자가 되어 오늘도 너무 즐거운 하루를 보내고 있습니다.
-  <br>
-  
-   <a href="https://hyoloui.tistory.com/" target="_blank">
-     <img src="https://img.shields.io/badge/Blog-203997?style=for-the-badge&logo=Tistory&logoColor=000000">
-  </a>
-      
-  <a href="mailto:tmdgy9272@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=tmdgy9272@gmail.com"/>
-  </a>
+특수부대원에서 프론트엔드로, 이제 AI 워커를 지휘합니다.
 
-  <br>
-  <br>
+피트니스 센터 CRM·ERP SaaS **어시스트핏**의 웹 프론트엔드를 저장소 생성부터 맡아 출시했고, 2년 2개월째 운영하고 있습니다. 불편을 들으면 직접 만들어 보고, 방법이 둘이면 둘 다 만들어 수치로 고릅니다.
 
-## ✨ &nbsp; Tech Stacks &nbsp; ✨
+웹 프론트엔드 3년 5개월 · Next.js · React · TypeScript · TanStack Query · Jotai · Tailwind CSS · Jest · Sentry · Storybook
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF">
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=Sass&logoColor=FFFFFF">  
-  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=FFFFFF">
-  
-  <br>
+<br>
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF">
-  
-  <br>
+## 어시스트핏에서 한 일
 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000">
-  <img src="https://img.shields.io/badge/Next-FFFFFF?style=for-the-badge&logo=Next.js&logoColor=000000">
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=000000"> 
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=000000"> 
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=FFFFFF">
+| 숫자 | 내용 |
+| :-- | :-- |
+| **1,013개** | 어시스트핏에 가입한 피트니스 센터 수(누적). 센터 직원이 하루 종일 켜 두고 회원, 이용권, 결제, 수업 일정을 관리하는 CRM 웹을 만듭니다. |
+| **11개월** | 저장소 생성부터 CRM 웹 정식 출시(2024.08)까지. 출시까지 PR 264건 중 257건을 작성했습니다. |
+| **2,813ms** | Next.js 16 빌드에서 첫 응답이 392ms에서 2,813ms로 느려지는 것을 배포 전에 측정했습니다. 두 안을 프리뷰에 배포해 비교하고 15 기반으로 옮겨, 회원 상세 첫 응답 407ms로 기존 수준을 지켰습니다. |
+| **930 → 110** | Sentry에서 30일간 3,867회 나던 계약 관리 화면 오류 등 3종을 고친 뒤 CRM 운영 환경의 주간 오류 이벤트(평균). |
+| **142개** | 수요일 정기 배포와 hotfix로 릴리스한 태그 수. 동료 PR 352건을 리뷰하고 QA 이슈 646건 대응에 참여했습니다. |
 
-  <br> 
-  <br>
-  
-## 📊 &nbsp; History &nbsp; 📊
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=hyoloui&theme=tokyonight&show_icons=true" width="42%" />
-  
-</div>
+<br>
 
+## AI로 빠르게 만들고, 검증은 따로 합니다
 
+2026년부터 AI 코딩 도구를 실무에 씁니다. AI가 쓴 코드도 PR로 올려 CodeRabbit AI 리뷰와 CTO·팀장·팀원 코드 리뷰를 거칩니다.
 
-<div align="right"> 
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyoloui&count_bg=%2380A5FF&title_bg=%23555555&icon=smugmug.svg&icon_color=%23F1F1F1&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-<!--
-**hiheecho/hiheecho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **반복 작업은 팀 공유 스킬로.** endpoint 하나로 Swagger 인터페이스, MSW 목, API 함수, React Query 훅을 만드는 스킬과 Sentry 오류를 분류해 Jira QA 티켓으로 올리는 스킬을 팀 저장소에 올렸습니다. 코드를 근거로 화면 설명서를 만드는 스킬로 화면 가이드 20개를 썼습니다.
+- **리뷰는 세 모델이 서로 반박하게.** 같은 diff를 3개 모델이 따로 리뷰하고 서로 반박하는 교차 리뷰 스킬을 만들어 팀에 공유했고, 이 방식으로 로그아웃 설계 결함 3건을 미리 찾았습니다.
+- **병렬 작업은 공통 지침으로 묶어서.** 인증 공통화 티켓 15개를 AI 워커 7개에 나누고 작업 범위와 검증 기준을 지침으로 정해 하루 만에 통합했습니다. tsc·eslint 오류 0건, 테스트 536개 통과를 확인했습니다.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 지금까지
+
+| 연도 | 한 일 |
+| :-- | :-- |
+| **2022** | 뉴클 주식회사에서 퍼블리셔로 시작. 천재교육 "밀크티 하루하나" React 웹앱을 퍼블리싱하며 결함 약 210건 처리 |
+| **2023** | 내일배움캠프 React 4기 수료. 5월 에이피티플레이에 초기 멤버로 입사해 웹 프론트엔드를 혼자 맡음 |
+| **2024** | 어시스트핏 CRM 웹 정식 출시. 같은 해 한양사이버대학교 컴퓨터공학과 3학년 편입 |
+| **2025** | 사내 디자인 시스템(pnpm·Turborepo 모노레포, Storybook) 참여. 2,000행 목록 멈춤을 가상 스크롤로 해결 |
+| **2026** | 컴퓨터공학과 졸업. Next.js 15·React 19 마이그레이션 배포. AI 스킬을 팀 공유 저장소에 도입 |
+
+<br>
+
+## Fit HR
+
+피트니스 센터와 트레이너를 잇는 구인구직 웹입니다. 많은 센터가 아직 오래된 커뮤니티에서 트레이너를 구하는 것을 보고 직접 만든 개인 프로젝트입니다(2025.11 ~ 2026.03).
+
+트레이너는 이력서를 관리하고 지역·업종·경력으로 공고를 찾아 지원합니다. 센터는 공고를 올리고 지원자의 이력서와 상태를 관리합니다.
+
+Next.js 16 (App Router, React 19) · TypeScript · Tailwind CSS 4 · shadcn/ui · React Hook Form + Zod · Supabase
+
+[서비스 보기](https://fit-hr.vercel.app) · [GitHub](https://github.com/hyoloui/fit-hr)
+
+<br>
+
+## 연락처
+
+[tmdgy9272@gmail.com](mailto:tmdgy9272@gmail.com) · [기술 블로그](https://hyoloui.github.io/) · [이전 블로그](https://hyoloui.tistory.com/)
